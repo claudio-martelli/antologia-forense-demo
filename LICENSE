@@ -1,0 +1,42 @@
+Licenza MIT — Antologia Forense (Demo Dieci Piccoli Indiani)
+
+Copyright (c) 2025 Claudio Martelli, Arianna Berrafato, Daniele Rizzo
+
+Questa licenza si applica esclusivamente al materiale originale ideato e prodotto
+dagli autori del progetto, ossia:
+
+- il manuale di gioco (docs/manuale-di-gioco.md)
+- le meccaniche di gioco e la documentazione di progettazione (docs/*.md, docs/*.pdf)
+- il prompt di sistema per il Game Master LLM (prompt/prompt-master.txt)
+- il cronogramma (prompt/cronogramma.md)
+- le annotazioni di regia inserite nel testo annotato (i tag e le istruzioni
+  aggiunte al testo originale, non il testo del romanzo in sé)
+- le schede personaggio, le carte, il tabellone e ogni altro asset grafico
+  originale (schede-personaggio/, carte/, board/, assets/)
+- le trascrizioni delle partite di esempio (partite-esempio/)
+
+NON è coperto da questa licenza il testo del romanzo "And Then There Were None"
+(Dieci Piccoli Indiani) di Agatha Christie, i cui diritti restano in capo ai
+rispettivi titolari. Vedi NOTICE.md per i dettagli.
+
+Con la presente si concede gratuitamente a chiunque ottenga una copia di questo
+materiale originale e dei file di documentazione associati (il "Materiale"),
+l'autorizzazione a trattare il Materiale senza alcuna restrizione, compresi,
+senza limitazione, i diritti di utilizzare, copiare, modificare, unire, pubblicare,
+distribuire, concedere in sottolicenza e/o vendere copie del Materiale, e a
+consentire alle persone a cui il Materiale è fornito di fare altrettanto, alle
+seguenti condizioni:
+
+1. L'avviso di copyright di cui sopra, il presente avviso di autorizzazione e
+   il riferimento al file NOTICE.md devono essere inclusi in tutte le copie o
+   parti sostanziali del Materiale.
+2. Qualsiasi uso pubblico o derivato citi adeguatamente gli autori originali
+   (vedi CREDITS.md).
+
+IL MATERIALE È FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O
+IMPLICITE, INCLUSE, MA NON LIMITATE A, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ
+PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE DEI DIRITTI ALTRUI. IN NESSUN CASO
+GLI AUTORI O I TITOLARI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO,
+DANNO O ALTRA RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, ILLECITO O ALTRO,
+DERIVANTE DA, FUORI O IN CONNESSIONE CON IL MATERIALE O L'USO O ALTRI AFFARI NEL
+MATERIALE.
