@@ -5,19 +5,19 @@ Progetto d'esame universitario di game design educativo.
 
 ## Team
 
-### Claudio Martelli
+### Claudio Martelli [github.com/claudio-martelli]
 - Creazione e iterazione del prompt di gioco (DeepSeek)
 - Redazione del manuale di gioco
 - Definizione della struttura ludico-educativa
 - Teoria e impostazione della valutazione didattica
 - Generazione delle immagini di carte e tabellone tramite bozza storyboard digitale + prompt strutturato su Nanobanana
 
-### Arianna Berrafato
+### Arianna Berrafato [github.com/arianna-berrafato]
 - Realizzazione delle schede personaggio
 - Stress test del gioco e del prompt
 - Scelta del topic/opera letteraria di riferimento
 
-### Daniele Rizzo
+### Daniele Rizzo [github.com/Daniele-Rizzo-2000]
 - Redazione del cronogramma (struttura scena per scena)
 - Creazione del sistema di suggerimenti e ricompense
 - Annotazione del testo del romanzo con i tag di regia per l'LLM
